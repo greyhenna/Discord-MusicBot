@@ -19,7 +19,7 @@ module.exports = {
   //Lavalink
    Lavalink: {
     id: "Main",
-    host: "india.lavalink.org",
+    host: "lavalink.cgofficial.org",
     port: 2333,
     pass: "youshallnotpass", 
   },
