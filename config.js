@@ -21,7 +21,7 @@ module.exports = {
     id: "Main",
     host: "lava.sudhan.tech",
     port: 1234,
-    pass: "CodingWithSudhan", 
+    pass: "youshallnotpass", 
   },
   
   //Alternate Lavalink
