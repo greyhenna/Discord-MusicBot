@@ -19,7 +19,7 @@ module.exports = {
   //Lavalink
    Lavalink: {
     id: "Main",
-    host: "lava.link",
+    host: "test-lavalink.herokuapp.com",
     port: 80,
     pass: "youshallnotpass", 
   },
