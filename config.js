@@ -12,7 +12,7 @@ module.exports = {
   "24/7": false, //If you want the bot to be stay in the vc 24/7
   CookieSecret: "Pikachu is cute", //A Secret like a password
   IconURL:
-    "https://gifyu.com/image/yPfW", //URL of all embed author icons | Dont edit unless you dont need that Music CD Spining
+    "https://i.ibb.co/Fm6Gnkw/A-a3f95bcff202159f64ed352f3b505e53.gif", //URL of all embed author icons | Dont edit unless you dont need that Music CD Spining
   Permissions: 2205280576, //Bot Inviting Permissions
   Website: process.env.Website || "https://musicaug15.herokuapp.com/", //Website where it was hosted at includes http or https || Use "0.0.0.0" if you using Heroku
 
