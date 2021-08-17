@@ -14,7 +14,7 @@ module.exports = {
   IconURL:
     "https://i.ibb.co/Fm6Gnkw/A-a3f95bcff202159f64ed352f3b505e53.gif", //URL of all embed author icons | Dont edit unless you dont need that Music CD Spining
   Permissions: 2205280576, //Bot Inviting Permissions
-  Website: process.env.Website || "https://musicaug15.herokuapp.com/", //Website where it was hosted at includes http or https || Use "0.0.0.0" if you using Heroku
+  Website: process.env.Website || "0.0.0.0", //Website where it was hosted at includes http or https || Use "0.0.0.0" if you using Heroku
 
   //Lavalink
    Lavalink: {
